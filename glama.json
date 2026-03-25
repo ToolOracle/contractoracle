@@ -1,0 +1,1 @@
+{"name": "ContractOracle", "description": "DORA Art. 28/30 contract compliance \u2014 10 MCP tools for clause checks, exit readiness", "category": "compliance", "tags": ["dora", "contracts", "compliance", "risk"], "tools": 10, "transport": "streamable-http", "endpoint": "https://tooloracle.io/contract/mcp/"}
