@@ -1,0 +1,5 @@
+name: ContractOracle
+description: DORA Art. 28/30 Contract Management — 10 tools
+endpoint: https://tooloracle.io/contract/mcp/
+transport: streamable-http
+license: MIT
